@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+header a img {
+    width: 344px;
+    height: 266px;
+    float: left;
+}
+
+.header img {
+    width: 1094px;
+    height: 373px;
+}
+
+body {
+    background-color: #1f1f1f;
+}
+
+body div {
+    text-align: center;
+}
+
+.maps img {
+    width: 474px;
+    height: 262px;
+}
+
+.maps h2 {
+    color: white;
+}
